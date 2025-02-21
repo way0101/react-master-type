@@ -88,7 +88,6 @@ function Coins(){
     
     return (
         <Container>
-            <Transform>ColorChange</Transform>
             <Header>
                 <Title>Coins</Title>
             </Header>
